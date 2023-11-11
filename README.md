@@ -1,6 +1,6 @@
 # CS50x - 2023
 
-![CS50x Logo]([cs50x_logo.png](https://o.remove.bg/downloads/6a7035d4-97d3-4e19-9cc4-ca81ee530698/download-removebg-preview.png))
+![CS50x Logo](https://o.remove.bg/downloads/6a7035d4-97d3-4e19-9cc4-ca81ee530698/download-removebg-preview.png)
 
 Welcome to my CS50x 2023 portfolio! This repository showcases the projects and assignments I've completed during the CS50x course, providing a glimpse into my journey in mastering the fundamentals of computer science.
 
@@ -18,13 +18,11 @@ Welcome to my CS50x 2023 portfolio! This repository showcases the projects and a
 
 ## Projects
 
-### 1. Project Name
+### 1. Scratch
 
-Description: Brief description of the project.
+Description: A simple Scratch game that has two cars racing each other.
 
-GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project-repo)
-
-Demo: [Link to Live Demo](https://your-demo-link.com)
+Demo: [Link to Live Demo]([https://your-demo-link.com](https://scratch.mit.edu/projects/462976507))
 
 ### 2. Project Name
 
@@ -33,10 +31,6 @@ Description: Brief description of the project.
 GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project-repo)
 
 Demo: [Link to Live Demo](https://your-demo-link.com)
-
-...
-
-Include details and links for each project you want to showcase.
 
 ## Assignments
 
@@ -52,9 +46,6 @@ Description: Brief description of the assignment.
 
 GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/assignment-repo)
 
-...
-
-List and provide links for each assignment you want to highlight.
 
 ## Certificates
 
