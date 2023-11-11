@@ -22,7 +22,7 @@ Welcome to my CS50x 2023 portfolio! This repository showcases the projects and a
 
 Description: A simple Scratch game that has two cars racing each other.
 
-Demo: [Link to Live Demo](https://scratch.mit.edu/projects/462976507)
+Demo: [Link to Live Demo](https://scratch.mit.edu/projects/462976507){:target="_blank"}
 
 ### 2. Project Name
 
