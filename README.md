@@ -1,6 +1,6 @@
 # CS50x - 2023
 
-![CS50x Logo](https://o.remove.bg/downloads/6a7035d4-97d3-4e19-9cc4-ca81ee530698/download-removebg-preview.png)
+![CS50x Logo](https://repository-images.githubusercontent.com/614622686/62c5ee3f-14fb-4985-bba5-fab3c9819610)
 
 Welcome to my CS50x 2023 portfolio! This repository showcases the projects and assignments I've completed during the CS50x course, providing a glimpse into my journey in mastering the fundamentals of computer science.
 
