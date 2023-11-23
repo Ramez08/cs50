@@ -51,8 +51,6 @@ GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/assign
 
 ![CS50x Certificate](cs50x_certificate.jpg)
 
-Include an image or link to your CS50x certificate. You can download your certificate from the [CS50x website](https://cs50.harvard.edu/x/2023/certificates/your-username).
-
 ## Acknowledgments
 
 I would like to express my gratitude to [Professor David J. Malan](https://cs.harvard.edu/malan/) and the entire CS50x team for providing this excellent learning opportunity. Special thanks to [mention any TA or person who helped you] for their support and guidance throughout the course.
