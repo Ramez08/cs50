@@ -47,7 +47,7 @@ Description: Brief description of the assignment.
 GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/assignment-repo)
 
 
-## Certificates
+## Certificate
 
 ![CS50x Certificate](cs50x_certificate.jpg)
 
