@@ -53,6 +53,6 @@ GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/assign
 
 ## Acknowledgments
 
-I would like to express my gratitude to [Professor David J. Malan](https://cs.harvard.edu/malan/) and the entire CS50x team for providing this excellent learning opportunity. Special thanks to [mention any TA or person who helped you] for their support and guidance throughout the course.
+I would like to express my gratitude to [Professor David J. Malan](https://cs.harvard.edu/malan/) and the entire CS50x team for providing this excellent learning opportunity.
 
 Feel free to reach out if you have any questions or if you'd like to connect. Happy coding! 🚀
