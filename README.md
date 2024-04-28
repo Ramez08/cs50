@@ -18,19 +18,15 @@ Welcome to my CS50x 2023 portfolio! This repository showcases the projects and a
 
 ## Projects
 
-### 1. Scratch
+### 1. Scratch (Week 0)
 
 Description: A simple Scratch game that has two cars racing each other.
 
 [Link to Live Demo](https://scratch.mit.edu/projects/462976507)
 
-### 2. Project Name
+### 2. Credit (Week 1)
 
 Description: Brief description of the project.
-
-GitHub Repository: [Link to GitHub Repo](https://github.com/your-username/project-repo)
-
-Demo: [Link to Live Demo](https://your-demo-link.com)
 
 ## Assignments
 
